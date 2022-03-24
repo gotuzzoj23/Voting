@@ -1,0 +1,1 @@
+/Users/jose/Desktop/tutorials/rustex/practice/voters/target/debug/voters: /Users/jose/Desktop/tutorials/rustex/practice/voters/src/main.rs /Users/jose/Desktop/tutorials/rustex/practice/voters/src/schema.rs

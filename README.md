@@ -11,6 +11,6 @@ Once polling is complete for a candidate you can mark them as 'done':
 
 `UPDATE items SET done = true WHERE id = <ID>;`
 
-The <ID> can be found by the following command:
+The ID can be found by the following command:
   
 `SELECT id, title FROM items WHERE done = false;`
